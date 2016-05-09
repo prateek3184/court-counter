@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/Prateek/AndroidStudioProjects/CourtCounter2/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/jars/libs/internal_impl-23.3.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
+        <dex dex="/Users/Prateek/AndroidStudioProjects/CourtCounter2/app/build/intermediates/pre-dexed/debug/internal_impl-23.3.0_33706abe115dd63d815bf09d932cb14732c36a49.jar" />
+    </item>
+    <item
+        jar="/Users/Prateek/AndroidStudioProjects/CourtCounter2/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
+        <dex dex="/Users/Prateek/AndroidStudioProjects/CourtCounter2/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.3.0_c80b40d9ac66e799744cbfab465dcfe592e98a1b.jar" />
+    </item>
+    <item
+        jar="/Users/Prateek/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.3.0/support-annotations-23.3.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="db7791d75a07fef9844d06236c1c59ba7bf6997c">
+        <dex dex="/Users/Prateek/AndroidStudioProjects/CourtCounter2/app/build/intermediates/pre-dexed/debug/support-annotations-23.3.0_4b0979cf7dc2568a171f9fe7f77b07584e8a036a.jar" />
+    </item>
+    <item
+        jar="/Users/Prateek/AndroidStudioProjects/CourtCounter2/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="23be6993826b8fd88bbc8d14928bb3b8960d3d4e">
+        <dex dex="/Users/Prateek/AndroidStudioProjects/CourtCounter2/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-23.3.0_67430bf6005b289dc8dafc17fe85530ff447c497.jar" />
+    </item>
+    <item
+        jar="/Users/Prateek/AndroidStudioProjects/CourtCounter2/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="a0b5d60246cd9d4f3f2443611b3b4c25265840b5">
+        <dex dex="/Users/Prateek/AndroidStudioProjects/CourtCounter2/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-23.3.0_ba3651367e7dc81e4ca2c4b606f8e328abbeca3c.jar" />
+    </item>
+    <item
+        jar="/Users/Prateek/AndroidStudioProjects/CourtCounter2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="1b8e03daaa43fb0a4cd57e378167c2fd70454c1e">
+        <dex dex="/Users/Prateek/AndroidStudioProjects/CourtCounter2/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.3.0_2a59141378f8c03b58f899ec66d58528de73020b.jar" />
+    </item>
+
+</items>
